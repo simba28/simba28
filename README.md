@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Kumar</h1>
-<h3 align="center">Full Stack Web Developer and Competitive Programmer</h3>
+<h3 align="center">Backend Developer and Competitive Programmer</h3>
 <!-- <h2 align="center">Competitive Programmer</h2> -->
 <hr>
 
